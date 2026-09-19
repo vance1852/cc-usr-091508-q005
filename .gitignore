@@ -10,3 +10,10 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Go build / local runtime
+floodair
+floodair.exe
+*.db
+*.db-wal
+*.db-shm
